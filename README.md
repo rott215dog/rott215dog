@@ -10,5 +10,3 @@
   - Create framework wrappers
   - Freelance programming
   - Teach programming (Python, but I could teach Swift)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rott215dog&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
