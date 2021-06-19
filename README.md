@@ -1,16 +1,12 @@
-### Hi there 👋
+# Hello World, I'm Deacon
 
-<!--
-**rott215dog/rott215dog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What programming languages do I know?
+  - Swift
+  - Python
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What do I do?
+  - Swift app development
+  - Python web development
+  - Create framework wrappers
+  - Freelance programming
+  - Teach programming (Python, but I could teach Swift)
