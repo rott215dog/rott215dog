@@ -9,4 +9,4 @@
   - Python web development
   - Create framework wrappers
   - Freelance programming
-  - Teach programming (Python, but I could teach Swift)
+  - Teach programming (Python)
