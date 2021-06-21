@@ -8,5 +8,6 @@
   - Swift app development
   - Python web development
   - Create framework wrappers
+  - Build libraries and frameworks
   - Freelance programming
   - Teach programming (Python)
