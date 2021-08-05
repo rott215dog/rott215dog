@@ -11,3 +11,4 @@
   - Build libraries and frameworks
   - Freelance programming
   - Teach programming (Python)
+  - Swift web development
