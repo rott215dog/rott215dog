@@ -12,3 +12,4 @@
   - Freelance programming
   - Teach programming (Python)
   - Swift web development
+  - Progressive Web App development
