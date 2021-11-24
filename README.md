@@ -4,12 +4,12 @@
   - Swift
   - Python
 
-### What do I do?
+### What do I do and/or experiment with?
   - Swift app development
   - Python web development
   - Create framework wrappers
   - Build libraries and frameworks
-  - Freelance programming
+  - Occasional freelance programming
   - Teach programming (Python)
   - Swift web development
   - Progressive Web App development
